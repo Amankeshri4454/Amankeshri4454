@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **amankumarkeshri1@gmail.com**
 
-- ⚡ Fun fact **I think i am Genius**
+- ⚡ Fun fact **I think i am a Genius**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
