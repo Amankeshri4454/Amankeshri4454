@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Keshri</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amankeshri4454&label=Profile%20views&color=0e75b6&style=flat" alt="Amankeshri4454" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
