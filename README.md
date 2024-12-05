@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Keshri</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amankeshri4454&label=Profile%20views&color=0e75b6&style=flat" alt="Amankeshri4454" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amankeshri4454" alt="Amankeshri4454" /></a> </p>
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **amankumarkeshri1@gmail.com**
